@@ -28,7 +28,6 @@ root.mainloop()
 class pair:
     pair_type: type
     pair_value: object
-    mutable: bool = True
 
 
 @dataclass
